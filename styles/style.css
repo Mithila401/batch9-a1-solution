@@ -99,7 +99,8 @@ margin-top: 30px;
     background-size: cover;
     border-radius: 16px;
     background-color: rgba(0, 0, 0, 0.5);
-    background-blend-mode: overlay;
+    background-blend-mode: overlay; 
+    margin-bottom: 100px;
     
 }
 .leftside-content{
@@ -129,9 +130,9 @@ margin-left: 55px;
 #midnight-button{
     color: rgb(255, 255, 255);
 font-family: Inter;
-font-size: 20px;
+font-size: 30px;
 font-weight: 700;
-margin-top: 20px;
+margin-top: 30px;
 }
 .rightside-content{
     width: 50%;
@@ -144,4 +145,11 @@ margin-top: 20px;
     
 width: 349.16px;
 height: 464.65px;
+}
+/* holiday-section-starts here */
+.holiday-section-container{
+    width: 1320px;
+    height: 986.07px;
+    border: 2px solid red ;
+    margin: auto;
 }
